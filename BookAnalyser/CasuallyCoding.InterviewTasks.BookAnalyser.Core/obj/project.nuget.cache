@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tgZrxt7ufNWCgmeR41rJzYc2j6+A7j1YwFFnL7gUJOXSVxpuKBAlRDM6+JvasICIhSTqI32gLoOsj/bc/G7CBA==",
+  "dgSpecHash": "zHec9I61lzlmxCRQEpHtGQ31uMtA5WQyREjtSYH63EUMTesc2Xl3B2nyayFxEGrCH03kOB1+rRk7VPIflXg9yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dave\\source\\repos\\CasuallyCoding.InterviewTasks\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj",
+  "projectFilePath": "C:\\Users\\Dave\\source\\repos\\CasuallyCoding\\InterviewTasks\\BookAnalyser\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

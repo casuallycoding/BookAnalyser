@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dave\\source\\repos\\CasuallyCoding.InterviewTasks\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj": {}
+    "C:\\Users\\Dave\\source\\repos\\CasuallyCoding\\InterviewTasks\\BookAnalyser\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dave\\source\\repos\\CasuallyCoding.InterviewTasks\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj": {
+    "C:\\Users\\Dave\\source\\repos\\CasuallyCoding\\InterviewTasks\\BookAnalyser\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dave\\source\\repos\\CasuallyCoding.InterviewTasks\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj",
+        "projectUniqueName": "C:\\Users\\Dave\\source\\repos\\CasuallyCoding\\InterviewTasks\\BookAnalyser\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj",
         "projectName": "CasuallyCoding.InterviewsTasks.BookAnalyser",
-        "projectPath": "C:\\Users\\Dave\\source\\repos\\CasuallyCoding.InterviewTasks\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj",
+        "projectPath": "C:\\Users\\Dave\\source\\repos\\CasuallyCoding\\InterviewTasks\\BookAnalyser\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj",
         "packagesPath": "C:\\Users\\Dave\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dave\\source\\repos\\CasuallyCoding.InterviewTasks\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\obj\\",
+        "outputPath": "C:\\Users\\Dave\\source\\repos\\CasuallyCoding\\InterviewTasks\\BookAnalyser\\CasuallyCoding.InterviewTasks.BookAnalyser.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
