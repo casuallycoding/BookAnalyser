@@ -1,0 +1,13 @@
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\bin\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.exe
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\bin\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.deps.json
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\bin\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.runtimeconfig.json
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\bin\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.runtimeconfig.dev.json
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\bin\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.dll
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\bin\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.pdb
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\obj\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\obj\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\obj\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.AssemblyInfo.cs
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\obj\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\obj\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.dll
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\obj\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.pdb
+C:\Users\Dave\source\repos\BerkshireCloud.Test.Core\BerkshireCloud.Test.Core\obj\Debug\netcoreapp3.1\BerkshireCloud.Test.Core.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\bin\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.exe
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\bin\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.deps.json
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\bin\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.runtimeconfig.json
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\bin\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.runtimeconfig.dev.json
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\bin\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.dll
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\bin\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.pdb
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\obj\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\obj\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\obj\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.AssemblyInfo.cs
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\obj\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\obj\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.dll
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\obj\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.pdb
+C:\Users\Dave\source\repos\CasuallyCoding.InterviewTasks\CasuallyCoding.InterviewTasks.BookAnalyser.Core\obj\Debug\netcoreapp3.1\CasuallyCoding.InterviewsTasks.BookAnalyser.genruntimeconfig.cache
