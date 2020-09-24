@@ -9,7 +9,7 @@ namespace CasuallyCoding.Interview.BookAnalyser.Core
         {
             IFileParser fileParser = new TextFileParser(@".\AliceInWonderLand.txt");
 
-            foreach (var val in fileParser.GetMostCommonWords().ToList())
+            foreach (var val in fileParser.GetMostCommonWords().ToList().Take(10))
             {
                 Console.WriteLine($"{val.Key} {val.Value}");
             }

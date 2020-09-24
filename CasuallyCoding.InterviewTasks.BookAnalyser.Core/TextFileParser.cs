@@ -29,14 +29,13 @@ namespace CasuallyCoding.Interview.BookAnalyser.Core
         public IOrderedEnumerable<KeyValuePair<string, int>> GetMostCommonWords()
         {
 
-            Regex reg = new Regex("[*\",_&#^@]"); 
             var data = File.ReadAllText(_filePath);
 
             var cleanedWords = data.Split(' ')
-                .ToList().Select(p => cleanString(p))              
+                .Select(p => cleanString(p))              
                 .Where(r => !r.Equals(String.Empty)); //Remove any empty occurrences
             
-            var groupedWords = cleanedWords.GroupBy(p => p).ToDictionary(b => b.Key ,b => b.Count());   
+            var groupedWords = cleanedWords.GroupBy(p=>p).ToDictionary(b => b.Key ,b => b.Count());   
             var wordsByPopularity = groupedWords.OrderByDescending(p => p.Value);
             return wordsByPopularity;
         }
